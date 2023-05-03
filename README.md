@@ -3,7 +3,7 @@
 
 <h4 align="center"> Sou Analista e Gerente de Projetos de Software</h4>
 <div>
- <p> Conduzo as equipes de projetos de software;<p>
+ <p> Conduzo as equipes;<p>
   Reviso e construo backlogs de produtos por meio do Trello e Gitlab;<p>
 Análiso e documento sistemas existentes; <p>
 Análiso, Especifico e Valido os Requisitos Solicitados;<p>
