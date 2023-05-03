@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá, me chamo Bianca 👋
 
-<!--
-**Biaahribeiro/biaahribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, trabalho com analise e gerenciamento de projetos.
+Conduzo as equipes de projetos de software;
+Revisão e construção backlogs de produtos por meio do Trello e Gitlab;
+Análiso e documento sistemas existentes; 
+Análiso, Especifico e Valido os Requisitos Solicitados;
+Identifico necessidades e expectativas dos clientes e usuários; 
+Faço Análise de Pontos de Função; 
+Realizo consultas e manipulação de dados no SQL server;
+Desenvolvo Artefatos e Quaisquer Documentações Necessárias (Manual de Usuário, Dicionário de Dados e Fluxogramas).
